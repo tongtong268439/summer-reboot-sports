@@ -194,7 +194,7 @@ Proof：
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/meixingyu001-code.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/BareerahBenjamin.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
-| [tongtong268439](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tongtong268439.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [tongtong268439](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tongtong268439.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [RicardoXu2](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/RicardoXu2.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/pillowtalk-Qy.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [mave99a](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/mave99a.md) |   | | | | | | | | | | | | | | | | | | | | |
